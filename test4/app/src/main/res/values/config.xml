@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_number_of_tables" translatable="false">10</string>
+    <string name="config_remote_resources_url" translatable="false" >https://github.com/AdityaPrabhuCS/Hotel/tree/master/</string>
+    <string name="config_courses_json_file" translatable="false">menu.json</string>
+    <string name="config_contact_email" translatable="false">adityaprabhucs@gmail.com</string>
+    <string name="config_contact_web" translatable="false">adityaprabhucs@gmail.com</string>
+</resources>

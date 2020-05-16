@@ -1,0 +1,45 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="table_size">128dp</dimen>
+    <dimen name="table_number_text_size">60sp</dimen>
+    <dimen name="button_text_size">32sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dialog_padding">20dp</dimen>
+    <dimen name="ticket_buttons_text_size">17sp</dimen>
+    <dimen name="ticket_text_size">18sp</dimen>
+    <dimen name="ticket_small_text_size">16sp</dimen>
+    <dimen name="ticket_medium_text_size">17sp</dimen>
+    <dimen name="small_fragment_width">350dp</dimen>
+    <dimen name="extra_large_text_size">28sp</dimen>
+    <dimen name="settings_section_text_size">20sp</dimen>
+    <dimen name="settings_editText_text_size">24sp</dimen>
+    <dimen name="settings_button_width">50dp</dimen>
+    <dimen name="settings_button_padding_top">5dp</dimen>
+    <dimen name="settings_section_description_text_size">14sp</dimen>
+    <dimen name="small_padding">10dp</dimen>
+    <dimen name="big_margin">30dp</dimen>
+    <dimen name="course_item_image_width">100dp</dimen>
+    <dimen name="course_item_image_height">67dp</dimen>
+    <dimen name="course_item_min_height">67dp</dimen>
+    <dimen name="course_item_couse_name_text_size">17sp</dimen>
+    <dimen name="course_item_couse_prise_text_size">20sp</dimen>
+    <dimen name="course_item_couse_name_big_text_size">18sp</dimen>
+    <dimen name="course_item_couse_suggestion_text_size">15sp</dimen>
+    <dimen name="course_item_section_text_size">18sp</dimen>
+    <dimen name="extra_small_margin">5dp</dimen>
+    <dimen name="course_detail_image_max_height">300dp</dimen>
+    <dimen name="course_detail_name_text_size">22sp</dimen>
+    <dimen name="course_detail_price_text_size">25sp</dimen>
+    <dimen name="course_detail_description_text_size">17sp</dimen>
+    <dimen name="table_name_panel_text_size">25sp</dimen>
+    <dimen name="table_name_panel_height">60dp</dimen>
+    <dimen name="courses_list_margin">60dp</dimen>
+    <dimen name="allergens_list_item_size">20dp</dimen>
+    <dimen name="allergens_list_separation">7dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="iam_logo_width">250dp</dimen>
+    <dimen name="about_text_size">16sp</dimen>
+</resources>

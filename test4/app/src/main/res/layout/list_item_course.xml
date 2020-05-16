@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:padding="@dimen/small_padding"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <ImageView
+        android:contentDescription="@string/image_of_the_course"
+        android:id="@+id/courseImage"
+        android:layout_width="@dimen/course_item_image_width"
+        android:layout_height="@dimen/course_item_image_height"/>
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:minHeight="@dimen/course_item_min_height"
+        android:layout_marginLeft="@dimen/small_padding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TextView
+            android:layout_gravity="top"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textSize="@dimen/course_item_couse_name_text_size"
+            android:textColor="@android:color/black"
+            android:id="@+id/courseName"/>
+
+        <LinearLayout
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/courseName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:id="@+id/allergensLinearLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/coursePrice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textSize="@dimen/course_item_couse_prise_text_size"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

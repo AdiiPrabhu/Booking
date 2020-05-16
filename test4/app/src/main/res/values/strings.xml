@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CommandsPicker</string>
+    <string name="tables_activity_title">Table List</string>
+    <string name="settings_menu_option">Settings</string>
+    <string name="number_of_tables">Number of tables</string>
+    <string name="progress_dialog_title">Downloading</string>
+    <string name="progress_dialog_text">Downloading courses information</string>
+    <string name="starters_title">Starters</string>
+    <string name="main_courses_title">Main Courses</string>
+    <string name="desserts_title">Desserts</string>
+    <string name="course_detail_title">Course Detail</string>
+    <string name="change_tables_warning">If you change the number of tables all commands will be removed</string>
+    <string name="table_number_string">Table %d</string>
+    <string name="courses_activity_title">Courses</string>
+    <string name="course_detail_activity_title">Course detail</string>
+    <string name="add_course_menu_text">Add Course</string>
+    <string name="course_suggestions">Write here any suggestion given by the client about how he want the course to be cooked</string>
+    <string name="suggestions_text">Suggestions</string>
+    <string name="close_table">Close table</string>
+    <string name="course_added_message">Course added to table</string>
+    <string name="ticket_dialog_title">Table Ticket</string>
+    <string name="total">TOTAL</string>
+    <string name="select_table_text">Please select one table</string>
+    <string name="select_course_text">Please select a course from the list</string>
+    <string name="image_of_the_table">Image of the table</string>
+    <string name="image_of_the_course">Image of the course</string>
+    <string name="contact_mail_subject">Hey from CommandsPicker!</string>
+    <string name="about_menu_option">About</string>
+    <string name="about_text">
+        Hi! My name is Iván Aguilar Martín and I am a Mobile/Web applications developer.\n\n
+
+        As you probably have seen this is just a demo app witch mission is that possible
+        clients can have a small idea of how its app could looks like.\n\n
+
+        I can design and build to you an stuning native mobile application for Android or iOS devices
+        that takes your business to the top.\n\n
+
+        You can contact me by email just clicking on the envelope button above and if
+        you want to know more about me, my portfolio or companies I worked with please visit my personal
+        website at:
+    </string>
+</resources>
